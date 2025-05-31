@@ -36,7 +36,7 @@ Aplicação **C#** para controle financeiro pessoal, com backend .NET e frontend
 ## 📈 Estatísticas & Badges
 
 <p align="center">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=redgp0g&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gp0g's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redgp0g&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=redgp0g&show_icons=true&include_all_commits=true&theme=buefy&locale=pt-br&hide_border=true" alt="Gp0g's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redgp0g&layout=compact&theme=buefy&locale=pt-br&hide_border=true" />
 </p>
 
 ## 📫 Como Me Encontrar
