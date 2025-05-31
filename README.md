@@ -4,20 +4,17 @@
   <a/>
 </p>
 
-<p align="center">    
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=800&lines=I'm+Fullstack+Web+Developer;Experienced+in+.NET" alt="Typing SVG" /></a>
+<p align="center"> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Sou+Desenvolvedor+Full-Stack;3%2B+Anos+de+experi%C3%AAncia+em+.NET" alt="Typing SVG" /></a>
 </p>
-
-Desenvolvedor **Full-Stack** com 3+ anos de experiência em **.NET Core**, **Blazor**, **Python**, **SQL Server** e **BPM** (TOTVS Fluig).
-Tenho paixão por **automação de processos**, **integrações RESTful** e **CI/CD** com GitHub Actions.
 
 ## 🚀 Skills & Ferramentas
 
-- **Linguagens & Frameworks:** C#, .NET 6, Blazor, ASP.NET MVC, Python, JavaScript (React, Vue)  
+- **Linguagens & Frameworks:** C#, .NET 6, Blazor, ASP.NET MVC, Python, JavaScript (Angular), Progress4GL  
 - **Bancos de Dados:** SQL Server, PostgreSQL, MongoDB  
 - **DevOps & Automação:** GitHub Actions, Docker, Azure DevOps  
-- **BPM & Integrações:** Modelagem BPMN 2.0, TOTVS Fluig, APIs RESTful  
-- **Outros:** REST APIs, Microservices, Entity Framework, Redis  
+- **BPM & Integrações:** Modelagem BPMN 2.0, TOTVS Fluig, APIs RESTful, TOTVS Datasul  
+- **Outros:** REST APIs, Microservices, Entity Framework, CI/CD
 
 ## 📂 Projetos em Destaque
 
