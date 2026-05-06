@@ -14,10 +14,6 @@
   <a href="mailto:guilhermeg2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/redgp0g?tab=followers">
-    <img src="https://img.shields.io/github/followers/redgp0g?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=redgp0g&style=for-the-badge&color=1f6feb" alt="Profile views" />
 </p>
 
 ## Sobre mim
@@ -59,7 +55,6 @@ Além dos projetos próprios, também contribuo com **open source no ecossistema
 - [MudBlazor #12892](https://github.com/MudBlazor/MudBlazor/pull/12892): correção de validação programática em inputs, merged em abril de 2026.
 - [MudBlazor #12885](https://github.com/MudBlazor/MudBlazor/pull/12885): ajuste do comportamento de scroll em tabs dentro de formulários desabilitados, merged em março de 2026.
 - [MudBlazor #11695](https://github.com/MudBlazor/MudBlazor/pull/11695): correção do `MudDrawer` para âncora persistente em layouts top/bottom, merged em novembro de 2025.
-- [MudBlazor.StaticInput](https://github.com/redgp0g/MudBlazor.StaticInput): fork/extensão voltado a componentes de input para páginas `static SSR` em Blazor.
 
 ## Projetos em destaque
 
