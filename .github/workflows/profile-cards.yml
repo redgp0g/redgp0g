@@ -34,6 +34,20 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
+      # The streak generator can silently skip a year when the API hiccups.
+      # Contributions almost never decrease, so a drop above 5% means bad data.
+      - name: Keep previous streak card if the total dropped
+        run: |
+          total() { sed 's/<[^>]*>/ /g' "$1" | tr -s ' \n' ' ' | grep -o '[0-9,]* Total Contributions' | tr -dc '0-9'; }
+          git show HEAD:profile/streak.svg > "$RUNNER_TEMP/old-streak.svg" 2>/dev/null || exit 0
+          old=$(total "$RUNNER_TEMP/old-streak.svg")
+          new=$(total profile/streak.svg)
+          echo "Previous total: ${old:-?} | New total: ${new:-?}"
+          if [ -n "$old" ] && [ -n "$new" ] && [ $((new * 100)) -lt $((old * 95)) ]; then
+            echo "::warning::Streak total dropped from $old to $new; keeping the previous card."
+            git checkout -- profile/streak.svg
+          fi
+
       - name: Generate contribution snake
         uses: Platane/snk@v3.5.0
         continue-on-error: true

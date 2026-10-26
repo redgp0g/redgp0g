@@ -53,7 +53,7 @@ Beyond my own projects, I contribute to the **MudBlazor** open-source ecosystem,
 
 <p align="center">
   <img height="170" src="https://raw.githubusercontent.com/redgp0g/redgp0g/main/profile/stats.svg" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=redgp0g&locale=en&hide_border=true&theme=transparent" alt="GitHub streak" />
+  <img height="170" src="https://raw.githubusercontent.com/redgp0g/redgp0g/main/profile/streak.svg" alt="GitHub streak" />
 </p>
 
 <p align="center">
