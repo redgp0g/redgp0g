@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B132B,50:1C2541,100:3A506B&text=Guilherme%20Gordiano&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20.NET%20%7C%20Blazor%20%7C%20Open%20Source&descAlignY=55&descSize=18&animation=fadeIn" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B132B,50:1C2541,100:3A506B&text=Guilherme%20Gordiano&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Systems%20Analyst%20%7C%20.NET%20%7C%20Blazor%20%7C%20Open%20Source&descAlignY=55&descSize=18&animation=fadeIn" alt="Guilherme Gordiano: Systems Analyst | .NET | Blazor | Open Source" />
 
 <p align="center">
   <a href="https://portfolio-gordiano.netlify.app/">
@@ -12,15 +12,16 @@
   </a>
 </p>
 
-## Sobre mim
+## About me
 
-Analista de Sistemas com **5+ anos de experiência** em aplicações web, automações, integrações e sistemas corporativos. Hoje atuo na **Schwarz S/A**, com foco em **.NET, Blazor, Python, SQL Server, GitHub Actions, Docker** e ecossistema **TOTVS (Fluig/Datasul)**.
+Systems Analyst with **5+ years of experience** in web applications, automation, integrations and enterprise systems. I currently work at **Schwarz S/A**, focusing on **C#/.NET, Blazor, Python, SQL Server, GitHub Actions, Docker** and the **TOTVS ecosystem (Fluig/Datasul)**.
 
-Além dos projetos próprios, também contribuo com **open source no ecossistema MudBlazor**, levando correções reais para componentes de interface usados em produção.
+Beyond my own projects, I contribute to the **MudBlazor** open-source ecosystem, shipping real fixes to UI components used in production.
 
-## Stack principal
+## Tech stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -28,12 +29,15 @@ Além dos projetos próprios, também contribuo com **open source no ecossistema
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/TOTVS-Fluig%20%7C%20Datasul-0057B8?style=for-the-badge" alt="TOTVS" />
+  <img src="https://img.shields.io/badge/TOTVS-Fluig%20%7C%20Datasul-0057B8?style=for-the-badge" alt="TOTVS Fluig and Datasul" />
 </p>
 
-## Open source em destaque
+## Open source highlights
 
 <p align="center">
+  <a href="https://github.com/MudBlazor/MudBlazor/pull/14092">
+    <img src="https://img.shields.io/badge/MudBlazor-PR%20%2314092%20merged-2ea043?style=for-the-badge&logo=github" alt="MudBlazor PR 14092" />
+  </a>
   <a href="https://github.com/MudBlazor/MudBlazor/pull/12892">
     <img src="https://img.shields.io/badge/MudBlazor-PR%20%2312892%20merged-2ea043?style=for-the-badge&logo=github" alt="MudBlazor PR 12892" />
   </a>
@@ -43,21 +47,20 @@ Além dos projetos próprios, também contribuo com **open source no ecossistema
   <a href="https://github.com/MudBlazor/MudBlazor/pull/11695">
     <img src="https://img.shields.io/badge/MudBlazor-PR%20%2311695%20merged-2ea043?style=for-the-badge&logo=github" alt="MudBlazor PR 11695" />
   </a>
-  <a href="https://github.com/MudBlazor/MudBlazor/pull/14092">
-    <img src="https://img.shields.io/badge/MudBlazor-PR%20%2311695%20merged-2ea043?style=for-the-badge&logo=github" alt="MudBlazor PR 14092" />
-  </a>
-  
 </p>
 
-## Atividade no GitHub
+## GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=redgp0g&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&locale=pt-br&theme=transparent" alt="GitHub Stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=redgp0g&locale=pt_BR&hide_border=true&theme=transparent" alt="GitHub Streak" />
+  <img height="170" src="https://raw.githubusercontent.com/redgp0g/redgp0g/main/profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=redgp0g&locale=en&hide_border=true&theme=transparent" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=redgp0g&custom_title=Atividade%20recente%20no%20GitHub&bg_color=00000000&color=1f6feb&line=58a6ff&point=1f6feb&area=true&hide_border=true&title_color=1f6feb" alt="GitHub Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/redgp0g/redgp0g/main/profile/github-snake-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/redgp0g/redgp0g/main/profile/github-snake.svg" alt="Contribution graph snake animation" />
+  </picture>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B132B,50:1C2541,100:3A506B" alt="Footer" />
