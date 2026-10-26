@@ -15,8 +15,10 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      # Each generator may fail on its own; the previous SVG stays in the repository.
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
+        continue-on-error: true
         with:
           card: stats
           options: username=redgp0g&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&locale=en&theme=transparent
@@ -24,8 +26,17 @@ jobs:
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      - name: Generate streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        continue-on-error: true
+        with:
+          options: user=redgp0g&locale=en&hide_border=true&theme=transparent
+          path: profile/streak.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
       - name: Generate contribution snake
         uses: Platane/snk@v3.5.0
+        continue-on-error: true
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
