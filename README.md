@@ -1,9 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B132B,50:1C2541,100:3A506B&text=Guilherme%20Gordiano&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Systems%20Analyst%20%7C%20.NET%20%7C%20Blazor%20%7C%20Open%20Source&descAlignY=55&descSize=18&animation=fadeIn" alt="Guilherme Gordiano: Systems Analyst | .NET | Blazor | Open Source" />
 
 <p align="center">
-  <a href="https://portfolio-gordiano.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/guilherme-gordiano-bb97991b6">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
